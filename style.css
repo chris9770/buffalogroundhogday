@@ -1,0 +1,61 @@
+html {
+      background: url('css/images/dw60er8.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
+head{
+    margin:auto;
+    padding:auto;
+}
+
+h1 {
+    margin-left: 10px;
+}
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container-paragraph {
+    margin-left: center;
+    margin-bottom: auto;
+    padding: 20px auto;
+    background-color: #68BCE1;
+    border: solid black 3px;
+    color:black;
+}
+
+.alert{
+    background-color: #A4CEE1;
+}
+
+.navbar-container {
+    background-color: #789FB0;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: white;
+}
+
+.quotes-container {
+    color:white;
+}
+
+.blockquote {
+    color:white;
+}
+
+.footer2 {
+    text-align: center;
+    color: white;
+}
+
+.footer {
+    color:white;
+}
